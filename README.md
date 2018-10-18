@@ -1,4 +1,4 @@
-# MachineLearningProjects
+## Machine Learning Projects
 
 **Note:** Many files containing my Machine Learning functions are .gitignore'd, because they were created as part of [Stanford's MOOC](https://www.coursera.org/learn/machine-learning/home/welcome) and I want to maintain the program's integrity.
 
